@@ -33,13 +33,16 @@ You may need to accept the licensing agreement that will appear before xcode wil
 2. Download and install Sublime Text.
 3. Sign up for GitHub.
  
-If you were able to complete all steps ahead of time and feel good to go, **place a green sticky note on the top of your computer.**
+####Place a green sticky note on the top of your computer...
+if you have all of the steps complete and feel good to go.
 
-If you still need to complete a few steps, **place a red sticky note on the top of your computer** and follow the directions below. 
+####Place a red sticky note on the top of your computer...
+if you still need to complete a few steps. Go ahead and follow the directions below. 
 
-If you encountered errors in your installation, or have questions, **place two (2) red sticky notes on the top of your computer** and someone will work their way around the room to help you out. 
+####Place two (2) red sticky notes on the top of your computer...
+if you encountered errors in your installation, or have already started the installation and have a specific question. Someone will work their way around the room to help you out.  
 
-#### if you have a green sticky note...
+#### Bonus round: If you have a green sticky note...
 
 Congrats! You have two choices, both equally valiant! You can break early for a cup of coffee, and meet back here at **11:25am** to get started on the command line workshop, OR, in the spirit of the week, wander over to a person who has two red sticky notes on their computer and see if you can troubleshoot together for five minutes. Sometimes we just need an extra set of eyes, regardless of expertise! 
 

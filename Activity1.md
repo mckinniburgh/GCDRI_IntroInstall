@@ -11,9 +11,9 @@ Turn to the person next to you and say hi! Go ahead and discuss your keywords, r
 
 After you've had a chance to introduce yourself, we'll go around the room and all together say *three* quick things: 
 
-1. our *name*
-2. our *program*
-3. our *two* keywords.
+1. your *name*
+2. your *program*
+3. your *two* keywords.
 
 After you've had a chance to share this aloud, go ahead and type the same information here: [http://pad.software-carpentry.org/gcdrijan2017](http://pad.software-carpentry.org/gcdrijan2017) 
 

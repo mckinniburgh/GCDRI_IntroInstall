@@ -24,4 +24,6 @@ Understand the basics of Python in order to see whether it might be worth pursui
 
 *Why? Learning a whole programming language is built of multiple smaller goals, like understanding functions, memorizing syntax in steps, and more. Choose a manageable goal that directly informs an upcoming task you'll need to get done--the purpose of this week is to assist you in developing the technical and critical skills to choose the right digital methods and tools for your work.*
 	
+Write down your skill and goal, and keep it in a place you can see during this week. 
+
 [Up next: Installation Overview](https://github.com/mckinniburgh/GCDRI_IntroInstall/blob/master/Install.md)
