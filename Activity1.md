@@ -19,3 +19,4 @@ After you've had a chance to share this aloud, go ahead and type the same inform
 
 We'll keep tally of all the keywords, and this will start to give us an idea of the different disciplines, ideas, and learning objectives each of us will bring to the table this coming week. 
 
+[Up Next: Activity 2](https://github.com/mckinniburgh/GCDRI_IntroInstall/blob/master/Activity2.md)

@@ -26,4 +26,4 @@ Good example: Understand the basics of Python in order to see whether it might b
 
 	*Why? This goal is manageable and has an applied purpose--double whammy!*
 	
-[Up next: Installation Overview](link here)
+[Up next: Installation Overview](https://github.com/mckinniburgh/GCDRI_IntroInstall/blob/master/Install.md)
