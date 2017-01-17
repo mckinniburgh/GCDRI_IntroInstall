@@ -1,9 +1,5 @@
-# Introductions and Installation 
-
 ##**GC Digital Research Institute**
 ###January 17-20, 2017
-
-We'll be working collaboratively over the next four days to learn digital skills, practice interdisciplinary research, and hone our own projects. First things first: let's meet the GC DRI Class of January 2017!
 
 We'll start with an icebreaker on a mission: to introduce ourselves to each other, and demonstrate the variety of specific and broad research goals each of us brings to the GC DRI.
 
