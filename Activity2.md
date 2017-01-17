@@ -10,19 +10,11 @@ You can use the list of names and interests on the Etherpad to create a crew of 
 
 ###Together, discuss the following two questions:
 
-1. What is a skill that I *already* bring to the table, before we even start classes at the GC DRI?
+###1. What is a skill that I *already* bring to the table, before we even start classes at the GC DRI?
 
 (this can be technical or non-technical--we'll learn that both are very valuable in learning digital skills)
-
-Examples: 
-
-MC has a good eye for organization
-		  
-Jojo is great at finding new people to speak with and learn from
-
-
-		
-2. What is a single learning goal that I'd like to set for this week?
+	
+###2. What is a single learning goal that I'd like to set for this week?
 
 ####Instead of saying: 
 Learn Python. 
