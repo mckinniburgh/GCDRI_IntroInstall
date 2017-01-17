@@ -75,3 +75,5 @@ You'll want to register for an account at GitHub, and be sure to remember your u
 ###Text Editor
 
 A text editor is an application for working with plain text, such as .txt, markdown, HTML, or Python code. We will be using the Sublime text editor because it supports syntax highlighting (which makes it easier to catch mistakes in your code) and works on every operating system. You can download Sublime here. Note that you may be prompted to purchase the full version of Sublime when you open the application, but this isn't necessary.
+
+[Up Next: Introduction to the Command Line](https://github.com/mckinniburgh/intro-command-line)
