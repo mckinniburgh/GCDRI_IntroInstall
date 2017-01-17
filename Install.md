@@ -14,7 +14,7 @@ For today's workshops on Command Line and Git, we requested in advance via email
 
 Take a moment and review the instructions for today's installation, and then follow the instructions for sticky notes below. 
  
-##OSX Quick Instructions:
+##OSX Quick Instructions
 
 1. Go to the Finder (magnifying glass in top right of your desktop) and type "terminal" in the prompt. The terminal application should be the first item that appears. When you see the $ (dollar sign) with your computer's name, you're in the right place.
 2. At the $ prompt, type:
@@ -27,12 +27,14 @@ You may need to accept the licensing agreement that will appear before xcode wil
 4. Download and install Sublime Text.
 3. Sign up for GitHub.
  
-##Windows Quick Instructions:
+##Windows Quick Instructions
 
 1. Download and install Git (comes with Git Bash). The default settings are fine.
 2. Download and install Sublime Text.
 3. Sign up for GitHub.
  
+##Sticky Note Instructions
+
 ####Place a green sticky note on the top of your computer...
 if you have all of the steps complete and feel good to go.
 
